@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']   = 'Upgrade';
-$_['heading_success'] = 'Upgrade - Complete!';
+$_['heading_title']   = 'Обновление';
+$_['heading_success'] = 'Обновление - Завершено!';
 
 // Text
-$_['text_upgrade']    = 'Prepare for your upgrade';
-$_['text_server']     = 'Check your server is set-up correctly';
-$_['text_steps']      = 'Upgrade Progress';
-$_['text_error']      = 'Post any upgrade script errors problems in the forums';
-$_['text_clear']      = 'After upgrade, clear any cookies in your browser to avoid getting token errors.';
-$_['text_admin']      = 'Load the admin page & press Ctrl+F5 twice to force the browser to update the css changes.';
-$_['text_user']       = 'Goto Admin -> Users -> User Groups and Edit the Top Adminstrator group. Check All boxes.';
-$_['text_setting']    = 'Goto Admin and Edit the main System Settings. Update all fields and click save, even if nothing changed.';
-$_['text_store']      = 'Load the store front & press Ctrl+F5 twice to force the browser to update the css changes.';
-$_['text_progress']   = 'Patch %s has been applied (%s of %s)';
-$_['text_success']    = 'Congratulations! You have successfuly upgraded your OpenCart installation!';
+$_['text_upgrade']    = 'Подготовка для обновления';
+$_['text_server']     = 'Проверьте, правильно ли настроен ваш сервер';
+$_['text_steps']      = 'Прогресс Обновления';
+$_['text_error']      = 'Опубликуйте сообщения об ошибках скрипта обновления на форуме';
+$_['text_clear']      = 'После обновления очистите все куки в вашем браузере, чтобы избежать ошибок токена.';
+$_['text_admin']      = 'Загрузите страницу администратора и дважды нажмите Ctrl+F5, чтобы браузер обновил изменения стилей.';
+$_['text_user']       = 'Зайдите в Панель управления и выберите: Система -> Пользователи -> Группы пользователей и нажмите Редактировать для главной группы Администратора. Отметьте все поля.';
+$_['text_setting']    = 'Зайдите в Панель управления и Отредактируйте основные Системные Настройки. Обновите все поля и нажмите Сохранить, даже если ничего не изменилось.';
+$_['text_store']      = 'Загрузите главную страницу магазина и дважды нажмите Ctrl+F5, чтобы браузер обновил изменения стилей.';
+$_['text_progress']   = 'Патч %s был применен (%s из %s)';
+$_['text_success']    = 'Поздравляем! Вы успешно обновили OpenCart!';
 
 // Entry
-$_['entry_progress']  = 'Progress';
+$_['entry_progress']  = 'Прогресс';
