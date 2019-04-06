@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_loading']    = 'Loading...';
+$_['text_loading']    = 'Загрузка...';
 
 // Button
-$_['button_continue'] = 'Continue';
-$_['button_back']     = 'Back';
+$_['button_continue'] = 'Продолжить';
+$_['button_back']     = 'Назад';
 
 // Error
-$_['error_exception'] = 'Error Code(%s): %s in %s on line %s';
+$_['error_exception'] = 'Код ошибки(%s): %s в %s строка %s';
