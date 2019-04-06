@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_license']       = 'License';
-$_['text_installation']  = 'Pre-Installation';
-$_['text_configuration'] = 'Configuration';
-$_['text_upgrade']       = 'Upgrade';
-$_['text_finished']      = 'Finished';
-$_['text_language']      = 'Language';
+$_['text_license']       = 'Лицензия';
+$_['text_installation']  = 'Подготовка';
+$_['text_configuration'] = 'Конфигурация';
+$_['text_upgrade']       = 'Обновление';
+$_['text_finished']      = 'Завершено';
+$_['text_language']      = 'Язык';
 $_['text_af']			 = 'Afrikaans';
 $_['text_sq']			 = 'Albanian';
 $_['text_ar']      		 = 'Arabic (Standard)';
@@ -146,7 +146,7 @@ $_['text_qu']            = 'Quechua';
 $_['text_rm']            = 'Rhaeto-Romanic';
 $_['text_ro']            = 'Romanian';
 $_['text_ro-mo']         = 'Romanian (Moldavia)';
-$_['text_ru-ru']         = 'Russian';
+$_['text_ru-ru']         = 'Русский (Россия)';
 $_['text_ru-mo']         = 'Russian (Moldavia)';
 $_['text_sz']            = 'Sami (Lappish)';
 $_['text_sg']            = 'Sango';
