@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'General Data Personal Request';
+$_['heading_title']     = 'Общий Регламент ЕС по Защите Персональных Данных';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_gdpr']         = 'You can view %s GDPR policy on the <a href="%s" target="_blank">%s<a/> page.';
-$_['text_verification'] = 'Account Verification';
-$_['text_email']        = 'Before we can carry out any GDPR requests we must validate you account. please enter your email below.';
-$_['text_action']       = 'Choose an action';
-$_['text_export']       = 'Export Personal Data';
-$_['text_remove']       = 'Remove Personal Data';
-$_['text_warning']      = 'Warning you will lose access to your account!';
-$_['text_access']       = 'You will no longer have access to your %s account.';
-$_['text_history']      = 'No longer have access to your order history, invoices, wishlists or downloads.';
-$_['text_limit']        = 'Account deletion requests will process after <strong>%s days</strong> so any fraud detection, chargebacks or refunds can be processed.';
-$_['text_success']      = 'Success: An email has been sent to your email address!';
+$_['text_account']      = 'Учетная запись';
+$_['text_gdpr']         = 'Вы можете посомтреть %s GDPR на <a href="%s" target="_blank">%s<a/> странице.';
+$_['text_verification'] = 'Верификация учетной записи';
+$_['text_email']        = 'Перед тем как мы сможем выполнить какие-либо запросы GDPR, мы должны проверить Вашу учетную запись. Пожалуйста, введите адрес электронной почты ниже.';
+$_['text_action']       = 'Выберите действие';
+$_['text_export']       = 'Экспорт личных данных';
+$_['text_remove']       = 'Удалить личные данные';
+$_['text_warning']      = 'Предупреждение, что Вы потеряете доступ к своей учетной записи!';
+$_['text_access']       = 'У Вас больше не будет доступа к вашей %s учетной записи.';
+$_['text_history']      = 'У Вас больше нет доступа к вашей истории заказов, счетам, закладок или загрузкам.';
+$_['text_limit']        = 'Запросы на удаление аккаунта будут обрабатываться через <strong>%s дней</strong>, поэтому любое обнаружение мошенничества, возвратные платежи или возвраты могут быть обработаны.';
+$_['text_success']      = 'Успех: электронное письмо было отправлено на ваш адрес электронной почты!';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'Эл. почта';
 
 // Error
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_action']      = 'You must select a valid GDPR action!';
+$_['error_email']       = 'Адрес электронной почты не является действительным!';
+$_['error_action']      = 'Вы должны выбрать действительное действие GDPR!';
