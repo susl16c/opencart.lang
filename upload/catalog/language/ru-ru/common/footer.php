@@ -1,26 +1,26 @@
 <?php
 // Text
-$_['text_information']  = 'Information';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
+$_['text_information']  = 'Информация';
+$_['text_service']      = 'Поддержка клиентов';
+$_['text_extra']        = 'Дополнительно';
+$_['text_contact']      = 'Связаться с нами';
+$_['text_return']       = 'Вернуть товар';
+$_['text_sitemap']      = 'Карта сайта';
 $_['text_gdpr']         = 'GDPR';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliate';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_manufacturer'] = 'Бренды';
+$_['text_voucher']      = 'Подарочные сертификаты';
+$_['text_affiliate']    = 'Партнерская программа';
+$_['text_special']      = 'Специальные предложения';
+$_['text_account']      = 'Личный кабинет';
+$_['text_order']        = 'История заказов';
+$_['text_wishlist']     = 'Закладки';
+$_['text_newsletter']   = 'Рассылка';
+$_['text_powered']      = 'Работает на <a href="http://www.opencart.com">OpenCart</a><br>Перевод от <a href="https://forum.ruopencart.dev/">ruOpenCart</a><br> %s &copy; %s';
 
-$_['text_contact']      = 'Contact Us';
-$_['text_address']      = 'Address';
-$_['text_open']         = 'Opening Time';
-$_['text_telephone']    = 'Telephone';
-$_['text_fax']          = 'Fax';
-$_['text_email']        = 'Email';
-$_['button_email']      = 'Contact us by email';
+$_['text_contact']      = 'Связаться с нами';
+$_['text_address']      = 'Адрес';
+$_['text_open']         = 'Режим работы';
+$_['text_telephone']    = 'Телефон';
+$_['text_fax']          = 'Факс';
+$_['text_email']        = 'Эл. адрес';
+$_['button_email']      = 'Свяжитесь с нами по электронной почте';
