@@ -3,6 +3,6 @@
 $_['heading_title'] = 'GDPR Success';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_export']   = 'A request to export your account data has been received.';
-$_['text_remove']   = 'GDPR account deletion requests will process after <strong>%s days</strong> so any chargebacks, refunds or fraud detection can be processed.';
+$_['text_account']  = 'Учетная запись';
+$_['text_export']   = 'Запрос на экспорт данных вашей учетной записи получен.';
+$_['text_remove']   = 'Запросы на удаление аккаунта GDPR будут обрабатываться через <strong>%s дней</strong>, поэтому любые возвратные платежи, возвраты или обнаружение мошенничества могут быть обработаны.';
