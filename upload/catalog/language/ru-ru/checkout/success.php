@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Ваш заказ был размещен!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']          = 'Корзина';
+$_['text_checkout']        = 'К оформлению заказа';
+$_['text_success']         = 'Заказ оформлен успешно';
+$_['text_customer']        = '<p>Ваш заказ был успешно обработан!</p><p>Вы можете просмотреть историю заказов, перейдя на страницу <a href="%s">личного кабинета</a> и нажав на <a href="%s">историю</a>.</p><p>Если Ваша покупка связана с загрузкой, Вы можете перейти в личный кабинет на страницу <a href="%s">загрузки</a> для их просмотра.</p><p>Пожалуйста, направляйте любые вопросы, которые у Вас есть нам через <a href="%s">обратную связь</a>.</p><p>Благодарим Вас за покупки в нашем магазине!</p>';
+$_['text_guest']           = '<p>Ваш заказ был успешно обработан!</p><p>Пожалуйста, направляйте любые вопросы, которые у Вас есть нам через <a href="%s">обратную связь</a>.</p><p>Благодарим Вас за покупки в нашем магазине!</p>';
