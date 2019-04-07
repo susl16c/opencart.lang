@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_cookie'] = 'This website uses cookies for more information <a href="%s" class="alert-link agree">click here</a>.';
-//We use cookies to improve our site and your experience. By continuing to browse our site you accept our cookie policy Find out more
+$_['text_cookie'] = 'Этот веб-сайт использует файлы cookie для получения дополнительной информации <a href="%s" class="alert-link accept">нажмите здесь</a>.';
+//Мы используем куки, чтобы улучшить наш сайт и ваш опыт. Продолжая просматривать наш сайт, вы принимаете нашу политику в отношении файлов cookie Узнайте больше
 
 // Button
-$_['button_close'] = 'Close';
+$_['button_close'] = 'Закрыть';
