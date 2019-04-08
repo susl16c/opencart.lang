@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Ваш партнерский аккаунт создан!';
 
 // Text
-$_['text_success']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
+$_['text_success']  = '<p>Поздравляем! Ваша новая учетная запись была успешно создана!</p> <p>Теперь Вы являетесь участником %s партнерской программы.</p> <p>Если у вас есть ЛЮБЫЕ вопросы о работе партнерской системы, отправьте электронное письмо на контактный адрес магазина.</p> <p>На указанный адрес электронной почты отправлено подтверждение. Если Вы не получили его в течение часа, пожалуйста <a href="%s">свяжитесь с нами</a>.</p>';
+$_['text_approval'] = '<p>Благодарим Вас за регистрацию партнерской учетной записи в %s!</p><p>Вы получите уведомление по электронной почте после активации учетной записи.</p><p>Если У Вас есть ЛЮБЫЕ вопросы о работе этой партнерской системы, пожалуйста <a href="%s">свяжитесь с нами</a>.</p>';
+$_['text_account']  = 'Учетная запись';
