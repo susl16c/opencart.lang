@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for <strong>%s</strong> customer account.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
+$_['text_subject']  = '%s - Запрос на сброс пароля';
+$_['text_greeting'] = 'Был запрошен новый пароль для <strong>%s</strong> учетной записи клиента.';
+$_['text_change']   = 'Для сброса пароля нажмите на ссылку ниже:';
+$_['text_ip']       = 'IP-адрес, использованный для запроса:';
 
-$_['button_reset']       = 'Reset Password';
+$_['button_reset']       = 'Сброс пароля';

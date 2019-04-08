@@ -1,14 +1,14 @@
 <?php
 // Text
 $_['text_subject']  = '%s - General Data Personal Request';
-$_['text_export']   = 'Export Data Request';
-$_['text_remove']   = 'Account Deletion Request';
-$_['text_gdpr']     = 'A GDPR request from this email address, To confirm this action please click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
-$_['text_contact']  = 'If you did not make this request please contact the store owner here:';
-$_['text_thanks']   = 'Thanks,';
-$_['text_ignore']   = 'If you did not make this request then please ignore this email.';
+$_['text_export']   = 'Запрос на экспорт данных';
+$_['text_remove']   = 'Запрос на удаление учетной записи';
+$_['text_gdpr']     = 'Запрос GDPR с этого адреса электронной почты, чтобы подтвердить это действие, пожалуйста, нажмите на ссылку ниже:';
+$_['text_ip']       = 'IP-адрес, использованный для запроса:';
+$_['text_contact']  = 'Если Вы не делали этот запрос, пожалуйста, свяжитесь с администрацией магазина здесь:';
+$_['text_thanks']   = 'Спасибо,';
+$_['text_ignore']   = 'Если Вы не делали этот запрос, пожалуйста, игнорируйте это письмо.';
 
 // Button
-$_['button_export'] = 'I confirm export my data';
-$_['button_remove'] = 'I confirm delete my account';
+$_['button_export'] = 'Я подтверждаю экспорт моих данных';
+$_['button_remove'] = 'Я подтверждаю удаление моей учетной записи';
