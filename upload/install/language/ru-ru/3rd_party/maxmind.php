@@ -5,7 +5,7 @@ $_['heading_title']       = 'MaxMind';
 // Text
 $_['text_maxmind']        = 'Служба обнаружения мошенничества.';
 $_['text_success']        = 'Служба мошенничества MaxMind установлена';
-$_['text_signup']         = 'Если у вас нет лицензионного ключа, вы можете зарегистрироваться <a href="https://www.maxmind.com/?rId=opencart" target="_blank">здесь</a>.';
+$_['text_signup']         = 'Если у вас нет лицензионного ключа, Вы можете зарегистрироваться <a href="https://www.maxmind.com/?rId=opencart" target="_blank">здесь</a>.';
 
 // Entry
 $_['entry_key']          = 'Лицензионный ключ';
